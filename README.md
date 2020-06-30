@@ -1,2 +1,2 @@
 # for-practice-purposes
-daily programs for practice purposes only
+daily bits of code for practice purposes only
